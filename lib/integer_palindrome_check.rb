@@ -1,7 +1,7 @@
 # Thought process:
 # step 1: reverse the integer
 # step 2: compare the reversed integer to the given number
-# Time Complexity: O(m)
+# Time Complexity: O(n)
 # Space complexity: O(n)
 
 def is_palindrome(number)
